@@ -1,0 +1,3 @@
+name- sanjana telange
+class-TEIT
+Sub- Lp2 WAD
